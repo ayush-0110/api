@@ -6,6 +6,8 @@ This API allows users to create, read, update, and delete items from a database,
 ## Getting Started
 - Prerequisites (Node.js, npm, TypeScript, MongoDB)
 - Installation steps (clone the repo, install dependencies, set environment variables, run the server)
+  - OR
+- Use the deployed link from the description
 
 ## API Endpoints
 
